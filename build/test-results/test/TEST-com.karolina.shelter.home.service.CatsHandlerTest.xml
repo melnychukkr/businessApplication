@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.karolina.shelter.home.service.CatsHandlerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-07-06T22:14:30" hostname="MP20486.local" time="1.14">
+  <properties/>
+  <testcase name="shouldReturnAvailableCats()" classname="com.karolina.shelter.home.service.CatsHandlerTest" time="1.121"/>
+  <testcase name="shouldDeleteCatWithTheProperId()" classname="com.karolina.shelter.home.service.CatsHandlerTest" time="0.018"/>
+  <system-out><![CDATA[00:14:31.662 [Test worker] DEBUG org.synchronoss.cloud.nio.multipart.DefaultPartBodyStreamStorageFactory - Temporary folder: /var/folders/4q/0b5qss490gs4m8nb8jgyk73mkw1cpz/T/nio-file-upload
+00:14:31.846 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - enableLoggingRequestDetails='false': form data and headers will be masked to prevent unsafe logging of potentially sensitive data
+00:14:31.869 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+00:14:31.936 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Writing client request for  GET "/cat"
+00:14:31.945 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Invoking HttpHandler for  GET "/cat"
+00:14:31.951 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [6ce44d69] HTTP GET "/cat"
+00:14:32.006 [Test worker] DEBUG org.springframework.http.codec.json.Jackson2JsonEncoder - [6ce44d69] Encoding [Cat{id='1', name='Mania', coatColor=BROWN, coatType=BOLD, age=KITTEN, requiresTreatment=false, isUse (truncated)...]
+00:14:32.019 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Creating client response for  GET "/cat"
+00:14:32.020 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [6ce44d69] Completed 200 OK
+00:14:32.022 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [2d30e35a] HTTP GET /cat
+00:14:32.024 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [2d30e35a] Response 200 OK
+00:14:32.045 [Test worker] DEBUG org.springframework.core.codec.ResourceDecoder - [2d30e35a] Read 165 bytes
+00:14:32.073 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['id']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['coatColor']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['coatType']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['age']
+00:14:32.077 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['requiresTreatment']
+00:14:32.077 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['usesCuvette']
+00:14:32.085 [Test worker] DEBUG org.synchronoss.cloud.nio.multipart.DefaultPartBodyStreamStorageFactory - Temporary folder: /var/folders/4q/0b5qss490gs4m8nb8jgyk73mkw1cpz/T/nio-file-upload
+00:14:32.087 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - enableLoggingRequestDetails='false': form data and headers will be masked to prevent unsafe logging of potentially sensitive data
+00:14:32.092 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Writing client request for  DELETE "/cat/2"
+00:14:32.092 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Invoking HttpHandler for  DELETE "/cat/2"
+00:14:32.093 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [2e0c4d7e] HTTP DELETE "/cat/2"
+00:14:32.093 [Test worker] INFO com.karolina.shelter.home.service.CatsHandler - Start removing cat with id: 2
+00:14:32.096 [Test worker] DEBUG org.springframework.http.codec.json.Jackson2JsonEncoder - [2e0c4d7e] Encoding [[Cat{id='2', name='Pusia', coatColor=CINNAMON, coatType=SHORT_HEARD, age=SENIOR, requiresTreatment=t (truncated)...]
+00:14:32.100 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Creating client response for  DELETE "/cat/2"
+00:14:32.100 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [2e0c4d7e] Completed 200 OK
+00:14:32.100 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [452ae747] HTTP DELETE /cat/2
+00:14:32.101 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [452ae747] Response 200 OK
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

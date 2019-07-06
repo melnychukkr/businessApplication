@@ -1,0 +1,28 @@
+version: "3.1"
+services:
+  spring:
+    build: .
+    ports:
+      - "8080:8080"
+    networks:
+      - mongo_net
+    depends_on:
+      - mongodb
+
+  mongodb:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+    environment:
+      - MONGO_INITDB_DATABASE=test
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=admin
+    networks:
+      - mongo_net
+    volumes:
+      - ./mongo-initdb/001_users.js:/docker-entrypoint-initdb.d/001_users.js:ro
+
+networks:
+  mongo_net:
+    driver: bridge

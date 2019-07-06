@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd9973f1-400f-45f4-9731-f322b604824c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/cats-home-back-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/cats-home-back-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.karolina.shelter.home.service.CatsHandlerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.karolina.shelter.home.service.CatsHandlerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.karolina.shelter.home.service.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.karolina.shelter.home.service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.karolina.shelter.home.service.CatsHandlerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.karolina.shelter.home.service.CatsHandlerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="cats-home-back" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cats-home-back" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/RepositoryConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/Age.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/CoatColor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/CoatType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.karolina.shelter.home">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.karolina.shelter.home</OriginalElement>
+              <nodes>
+                <node x="0.0" y="117.0">com.karolina.shelter.home.web</node>
+                <node x="385.0" y="44.692307692307736">com.karolina.shelter.home.util</node>
+                <node x="212.04017857142856" y="0.0">com.karolina.shelter.home.domain</node>
+                <node x="274.296875" y="234.0">com.karolina.shelter.home.service</node>
+                <node x="168.0" y="117.0">com.karolina.shelter.home.repository</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.karolina.shelter.home.repository" target="com.karolina.shelter.home.repository">
+                  <point x="-43.5" y="13.5" />
+                  <point x="211.5" y="164.0" />
+                  <point x="148.0" y="164.0" />
+                  <point x="148.0" y="137.25" />
+                  <point x="-87.0" y="6.75" />
+                </edge>
+                <edge source="com.karolina.shelter.home.repository" target="com.karolina.shelter.home.domain">
+                  <point x="0.0" y="-13.5" />
+                  <point x="255.0" y="97.0" />
+                  <point x="291.91517857142856" y="97.0" />
+                  <point x="8.875" y="13.5" />
+                </edge>
+                <edge source="com.karolina.shelter.home.domain" target="com.karolina.shelter.home.domain">
+                  <point x="-62.125" y="13.5" />
+                  <point x="220.91517857142856" y="47.0" />
+                  <point x="192.04017857142856" y="47.0" />
+                  <point x="192.04017857142856" y="20.25" />
+                  <point x="-71.0" y="6.75" />
+                </edge>
+                <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.service">
+                  <point x="37.5" y="13.5" />
+                  <point x="386.796875" y="291.0" />
+                  <point x="244.296875" y="291.0" />
+                  <point x="244.296875" y="240.75" />
+                  <point x="-75.0" y="-6.75" />
+                </edge>
+                <edge source="com.karolina.shelter.home.web" target="com.karolina.shelter.home.domain">
+                  <point x="29.5" y="-13.5" />
+                  <point x="88.5" y="87.0" />
+                  <point x="274.16517857142856" y="87.0" />
+                  <point x="-8.875" y="13.5" />
+                </edge>
+                <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.domain">
+                  <point x="-1.4210854715202004E-14" y="-13.5" />
+                  <point x="349.296875" y="214.0" />
+                  <point x="352.5" y="214.0" />
+                  <point x="352.5" y="97.0" />
+                  <point x="309.66517857142856" y="97.0" />
+                  <point x="26.625" y="13.5" />
+                </edge>
+                <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.util">
+                  <point x="64.28571428571428" y="-13.5" />
+                  <point x="413.5825892857143" y="214.0" />
+                  <point x="448.0" y="214.0" />
+                  <point x="0.0" y="13.5" />
+                </edge>
+                <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.web">
+                  <point x="-64.2857142857143" y="-13.5" />
+                  <point x="285.0111607142857" y="214.0" />
+                  <point x="19.66666666666663" y="214.0" />
+                  <point x="-39.33333333333334" y="13.5" />
+                </edge>
+                <edge source="com.karolina.shelter.home.web" target="com.karolina.shelter.home.service">
+                  <point x="39.33333333333334" y="13.5" />
+                  <point x="98.33333333333334" y="194.0" />
+                  <point x="327.86830357142856" y="194.0" />
+                  <point x="-21.428571428571445" y="-13.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="-53.384615384615415" y="92.61538461538458" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/GreetingWebClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>findAll</find>
+      <find>boot</find>
+      <find>signa</find>
+      <find>onStatus</find>
+      <find>dockerCompose</find>
+      <find>Account</find>
+      <find>reactive&quot;</find>
+      <find>admin</find>
+      <find>ReactiveMongoTemplate</find>
+      <find>001_users.js</find>
+      <find>001</find>
+      <find>root</find>
+      <find>Rout</find>
+      <find>controller</find>
+      <find>localhost</find>
+      <find>Cat(</find>
+      <find>localhost:</find>
+      <find>simmy</find>
+      <find>AbstractMongoConfiguration</find>
+      <find>strea</find>
+      <find>/cat</find>
+      <find>Simmy</find>
+      <find>hande</find>
+      <find>delete</find>
+      <find>mongodb</find>
+      <find>&quot;test&quot;</find>
+      <find>MongoClient</find>
+      <find>new Ca</find>
+      <find>logOnNext</find>
+      <find>handle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Cat§</replace>
+      <replace>Cat</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$APPLICATION_CONFIG_DIR$/scratches</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docker/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/MongoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsMongoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsCrudRepository.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsCrudRepositury.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsCrudRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/RepositoryConfiguration.java" />
+        <option value="$PROJECT_DIR$/mongo/001_users.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/animal/attribute/Age.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/mongo/SequenceGeneratorService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/mongo/event/CatModelListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/config/ConrsConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/config/CorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/client/GreetingWebClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/routes/CatsRouter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/mongo/DatabaseSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/Application.java" />
+        <option value="$PROJECT_DIR$/build.gradle.kts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/util/ReactiveLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/util/ReactiveLoggerSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/animal/cat/Cat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/service/CatsHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/karolina/shelter/home/domain/animal/cat/CatTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/karolina/shelter/home/service/CatsHandlerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/GreetingWebClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/CorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/CatsRouter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatModelListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/Age.java" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cats-home-back" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cats-home-back" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle.kts" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.karolina.shelter.home.service" />
+      <recent name="com.karolina.shelter.home.domain.animal.cat" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.karolina.shelter.home.domain.animal.attribute" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/cat/779" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: 779,&#10;  &quot;name&quot;: &quot;Zuzia&quot;,&#10;  &quot;coatColor&quot;: &quot;GRAY&quot;,&#10;  &quot;coatType&quot;: &quot;BOLD&quot;,&#10;  &quot;hasPhysicalDisability&quot;: false,&#10;  &quot;isChildFriendly&quot;: true,&#10;  &quot;isAnimalFriendly&quot;: true,&#10;  &quot;convivialRate&quot;: &quot;CONVIVIAL&quot;&#10;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/cat/7878" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: 778,&#10;  &quot;name&quot;: &quot;Zuzia&quot;,&#10;  &quot;coatColor&quot;: &quot;GRAY&quot;,&#10;  &quot;coatType&quot;: &quot;BOLD&quot;,&#10;  &quot;hasPhysicalDisability&quot;: false,&#10;  &quot;isChildFriendly&quot;: true,&#10;  &quot;isAnimalFriendly&quot;: true,&#10;  &quot;convivialRate&quot;: &quot;CONVIVIAL&quot;&#10;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: 777,&#10;  &quot;name&quot;: &quot;Zuzia&quot;,&#10;  &quot;coatColor&quot;: &quot;GRAY&quot;,&#10;  &quot;coatType&quot;: &quot;BOLD&quot;,&#10;  &quot;hasPhysicalDisability&quot;: false,&#10;  &quot;isChildFriendly&quot;: true,&#10;  &quot;isAnimalFriendly&quot;: true,&#10;  &quot;convivialRate&quot;: &quot;2&quot;&#10;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="&quot;application/stream+json&quot;" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/stream+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/stream+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: 9993,&#10;  &quot;name&quot;: &quot;Zuzia&quot;,&#10;  &quot;coatColor&quot;: &quot;GRAY&quot;,&#10;  &quot;coatType&quot;: &quot;BOLD&quot;,&#10;  &quot;hasPhysicalDisability&quot;: false, &#10;  &quot;isChildFriendly&quot;: true, &#10;  &quot;isAnimalFriendly&quot;: true, &#10;  &quot;convivialRate&quot;: &quot;CONVIVIAL&quot;&#10;  &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: 9993,&#10;  &quot;&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/cat" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;id&quot;: 9993}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.cats-home-back [clean build]">
+    <configuration name="cats-home-back [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="cats-home-back [composeUp]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="composeUp" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cats-home-back.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karolina.shelter.home.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karolina.shelter.home.service" />
+      <option name="MAIN_CLASS_NAME" value="com.karolina.shelter.home.service.CatsHandlerTest" />
+      <option name="METHOD_NAME" value="shouldDeleteCatWithTheProperId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatsHandlerTest.shouldReturnNotFoundWhenCatWithIsAbsent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cats-home-back.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karolina.shelter.home.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karolina.shelter.home.service" />
+      <option name="MAIN_CLASS_NAME" value="com.karolina.shelter.home.service.CatsHandlerTest" />
+      <option name="METHOD_NAME" value="shouldReturnNotFoundWhenCatWithIsAbsent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cats-home-back.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.karolina.shelter.home.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.mongodb: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mongodb" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.cats-home-back [composeUp]" />
+        <item itemvalue="Docker.docker-compose.yml.mongodb: Compose Deployment" />
+        <item itemvalue="Gradle.cats-home-back [clean build]" />
+        <item itemvalue="JUnit.CatsHandlerTest.shouldReturnNotFoundWhenCatWithIsAbsent" />
+        <item itemvalue="JUnit.CatsHandlerTest.shouldDeleteCatWithTheProperId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/draft-scala-pet-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/functor-applicative-monad-basics-1b" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd9973f1-400f-45f4-9731-f322b604824c" name="Default Changelist" comment="" />
+      <created>1558944247376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558944247376</updated>
+      <workItem from="1558944251953" duration="75000" />
+      <workItem from="1558944333939" duration="965000" />
+      <workItem from="1559059959423" duration="509000" />
+      <workItem from="1559060488833" duration="13154000" />
+      <workItem from="1559305435757" duration="4346000" />
+      <workItem from="1560016528790" duration="1718000" />
+      <workItem from="1560018268236" duration="104000" />
+      <workItem from="1560018390183" duration="8544000" />
+      <workItem from="1562178832744" duration="911000" />
+      <workItem from="1562180238836" duration="3377000" />
+      <workItem from="1562260541801" duration="6594000" />
+      <workItem from="1562310637855" duration="704000" />
+      <workItem from="1562350374010" duration="9734000" />
+      <workItem from="1562433975927" duration="4024000" />
+      <workItem from="1562442610896" duration="8041000" />
+    </task>
+    <task id="LOCAL-00001" summary="Enable build program in docker-compose">
+      <created>1562451174076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562451174076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Switch to docker mode">
+      <created>1562451196622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562451196622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CatsHandlerTest_should - 2019.07.06 at 23h 34m 03s.xml">
+      <configuration name="CatsHandlerTest.should" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_should - 2019.07.06 at 23h 37m 37s.xml">
+      <configuration name="CatsHandlerTest.should" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_should - 2019.07.06 at 23h 37m 53s.xml">
+      <configuration name="CatsHandlerTest.should" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldDeleteCatWithTheProperId - 2019.07.06 at 23h 40m 58s.xml">
+      <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldDeleteCatWithTheProperId - 2019.07.06 at 23h 41m 50s.xml">
+      <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldDeleteCatWithTheProperId - 2019.07.06 at 23h 42m 11s.xml">
+      <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldDeleteCatWithTheProperId - 2019.07.06 at 23h 43m 20s.xml">
+      <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldDeleteCatWithTheProperId - 2019.07.06 at 23h 44m 18s.xml">
+      <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldDeleteCatWithTheProperId - 2019.07.06 at 23h 44m 50s.xml">
+      <configuration name="CatsHandlerTest.shouldDeleteCatWithTheProperId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CatsHandlerTest_shouldReturnNotFoundWhenCatWithIsAbsent - 2019.07.06 at 23h 51m 37s.xml">
+      <configuration name="CatsHandlerTest.shouldReturnNotFoundWhenCatWithIsAbsent" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62800000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49760765" visible="true" weight="0.32295483" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50239235" side_tool="true" weight="0.4059829" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4993895" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.43772894" weight="0.21604279" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49874687" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.45970696" weight="0.32941177" />
+      <window_info anchor="bottom" id="SBT Console" order="8" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
+      <window_info anchor="bottom" id="Gradle View" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.492674" side_tool="true" visible="true" weight="0.69197863" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.501221" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4981685" weight="0.32941177" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.492674" weight="0.32941177" />
+      <window_info anchor="bottom" id="Statistic" order="18" />
+      <window_info anchor="bottom" id="Docker" order="19" sideWeight="0.507326" weight="0.41283423" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Call Graph" order="6" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Snyk" order="8" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="9" weight="0.17338218" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+      <window_info anchor="right" x="0" y="0" width="370" height="827" id="Documentation" order="13" side_tool="true" weight="0.6172161" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Enable build program in docker-compose" />
+    <MESSAGE value="Switch to docker mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Switch to docker mode" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>request.bodyToMono(Cat.class).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.bodyToMono(Cat.class)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.bodyToMono(Cat.class).block()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsCrudRepository.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.8.RELEASE/ff64269fa4319585452426ab20e6279d90c2c998/spring-data-mongodb-2.1.8.RELEASE-sources.jar!/org/springframework/data/mongodb/config/AbstractReactiveMongoConfiguration.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.2.9.RELEASE/3023f7616ade740a0bfb78a002b0d6df30d1464/reactor-core-3.2.9.RELEASE-sources.jar!/reactor/core/publisher/Mono.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongo-initdb/001_users.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.7.RELEASE/8b60bd1d7e7b8cf820aab75f4bc6bf914fbbac1b/spring-web-5.1.7.RELEASE-sources.jar!/org/springframework/http/MediaType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/ZoneOffset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/LocalDateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="178" column="32" selection-start-line="178" selection-start-column="32" selection-end-line="178" selection-end-column="32" />
+          <folding>
+            <element signature="e#6863#6864#0" expanded="true" />
+            <element signature="e#6916#6917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="1044" column="74" selection-start-line="1037" selection-start-column="27" selection-end-line="1044" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatterBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="2058" column="22" selection-start-line="2058" selection-start-column="22" selection-end-line="2058" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/5.1.7.RELEASE/d2bc1518c76efb2b89eb579121726a51de4a7103/spring-webflux-5.1.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/RouterFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+          <folding>
+            <element signature="e#3465#3466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.8.RELEASE/ff64269fa4319585452426ab20e6279d90c2c998/spring-data-mongodb-2.1.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/ReactiveMongoOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="1262" column="29" selection-start-line="1262" selection-start-column="23" selection-end-line="1262" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.8.RELEASE/ff64269fa4319585452426ab20e6279d90c2c998/spring-data-mongodb-2.1.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding>
+            <element signature="e#2388#2389#0" expanded="true" />
+            <element signature="e#2431#2432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/5.1.7.RELEASE/d2bc1518c76efb2b89eb579121726a51de4a7103/spring-webflux-5.1.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/ServerRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="228" column="19" selection-start-line="228" selection-start-column="19" selection-end-line="228" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsCrudRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsMongoRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatsRepository.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/animal/attribute/ConvivialRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.8.RELEASE/ff64269fa4319585452426ab20e6279d90c2c998/spring-data-mongodb-2.1.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/ReactiveMongoClientFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.7.RELEASE/49e277d789a354a283eea42a0c6013e11d30f261/spring-beans-5.1.7.RELEASE-sources.jar!/org/springframework/beans/factory/config/AbstractFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="153" column="19" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.3.2/77c667ed802af6253c68910b6cadfd973f3c6d0b/junit-jupiter-api-5.3.2-sources.jar!/org/junit/jupiter/api/BeforeEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.8.RELEASE/ff64269fa4319585452426ab20e6279d90c2c998/spring-data-mongodb-2.1.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/mapping/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/util/ReactiveLoggerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/5.1.7.RELEASE/d2bc1518c76efb2b89eb579121726a51de4a7103/spring-webflux-5.1.7.RELEASE-sources.jar!/org/springframework/web/reactive/function/server/ServerResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+          <folding>
+            <element signature="e#3624#3625#0" expanded="true" />
+            <element signature="e#3659#3660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.7.RELEASE/460a45ef103dc40e60240c5112df2ffa8ecbf94f/spring-test-5.1.7.RELEASE-sources.jar!/org/springframework/test/web/reactive/server/WebTestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="867" column="27" selection-start-line="867" selection-start-column="27" selection-end-line="867" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/2.1.8.RELEASE/ff64269fa4319585452426ab20e6279d90c2c998/spring-data-mongodb-2.1.8.RELEASE-sources.jar!/org/springframework/data/mongodb/core/ReactiveMongoTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="1867" column="23" selection-start-line="1867" selection-start-column="23" selection-end-line="1867" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/service/CatsHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/karolina/shelter/home/domain/animal/cat/CatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/karolina/shelter/home/service/CatsHandlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/CorsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/CatsRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/CatModelListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/DatabaseSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/SequenceGeneratorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/repository/RepositoryConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/Age.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/CoatColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/CoatType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/domain/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.karolina.shelter.home">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.karolina.shelter.home</OriginalElement>
+          <nodes>
+            <node x="0.0" y="117.0">com.karolina.shelter.home.web</node>
+            <node x="385.0" y="44.692307692307736">com.karolina.shelter.home.util</node>
+            <node x="212.04017857142856" y="0.0">com.karolina.shelter.home.domain</node>
+            <node x="274.296875" y="234.0">com.karolina.shelter.home.service</node>
+            <node x="168.0" y="117.0">com.karolina.shelter.home.repository</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.karolina.shelter.home.repository" target="com.karolina.shelter.home.repository">
+              <point x="-43.5" y="13.5" />
+              <point x="211.5" y="164.0" />
+              <point x="148.0" y="164.0" />
+              <point x="148.0" y="137.25" />
+              <point x="-87.0" y="6.75" />
+            </edge>
+            <edge source="com.karolina.shelter.home.repository" target="com.karolina.shelter.home.domain">
+              <point x="0.0" y="-13.5" />
+              <point x="255.0" y="97.0" />
+              <point x="291.91517857142856" y="97.0" />
+              <point x="8.875" y="13.5" />
+            </edge>
+            <edge source="com.karolina.shelter.home.domain" target="com.karolina.shelter.home.domain">
+              <point x="-62.125" y="13.5" />
+              <point x="220.91517857142856" y="47.0" />
+              <point x="192.04017857142856" y="47.0" />
+              <point x="192.04017857142856" y="20.25" />
+              <point x="-71.0" y="6.75" />
+            </edge>
+            <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.service">
+              <point x="37.5" y="13.5" />
+              <point x="386.796875" y="291.0" />
+              <point x="244.296875" y="291.0" />
+              <point x="244.296875" y="240.75" />
+              <point x="-75.0" y="-6.75" />
+            </edge>
+            <edge source="com.karolina.shelter.home.web" target="com.karolina.shelter.home.domain">
+              <point x="29.5" y="-13.5" />
+              <point x="88.5" y="87.0" />
+              <point x="274.16517857142856" y="87.0" />
+              <point x="-8.875" y="13.5" />
+            </edge>
+            <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.domain">
+              <point x="-1.4210854715202004E-14" y="-13.5" />
+              <point x="349.296875" y="214.0" />
+              <point x="352.5" y="214.0" />
+              <point x="352.5" y="97.0" />
+              <point x="309.66517857142856" y="97.0" />
+              <point x="26.625" y="13.5" />
+            </edge>
+            <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.util">
+              <point x="64.28571428571428" y="-13.5" />
+              <point x="413.5825892857143" y="214.0" />
+              <point x="448.0" y="214.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="com.karolina.shelter.home.service" target="com.karolina.shelter.home.web">
+              <point x="-64.2857142857143" y="-13.5" />
+              <point x="285.0111607142857" y="214.0" />
+              <point x="19.66666666666663" y="214.0" />
+              <point x="-39.33333333333334" y="13.5" />
+            </edge>
+            <edge source="com.karolina.shelter.home.web" target="com.karolina.shelter.home.service">
+              <point x="39.33333333333334" y="13.5" />
+              <point x="98.33333333333334" y="194.0" />
+              <point x="327.86830357142856" y="194.0" />
+              <point x="-21.428571428571445" y="-13.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="-53.384615384615415" y="92.61538461538458" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/web/GreetingWebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/karolina/shelter/home/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean build" />
+    <option value="composeUp" />
+    <option value="clean" />
+    <option value="composeDown clean build composeUp" />
+    <option value="composeDown" />
+    <option value="clean build composeUp" />
+    <option value="build" />
+    <option value="build composeUp" />
+    <option value="composeDown clean" />
+    <option value="compileJava" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|main|cats-home-back</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31590414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

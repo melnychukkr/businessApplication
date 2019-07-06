@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - CatsHandlerTest</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>CatsHandlerTest</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/com.karolina.shelter.home.service.html">com.karolina.shelter.home.service</a> &gt; CatsHandlerTest</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">2</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">1.139s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+<li>
+<a href="#tab1">Standard output</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">shouldDeleteCatWithTheProperId()</td>
+<td class="success">0.018s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">shouldReturnAvailableCats()</td>
+<td class="success">1.121s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>00:14:31.662 [Test worker] DEBUG org.synchronoss.cloud.nio.multipart.DefaultPartBodyStreamStorageFactory - Temporary folder: /var/folders/4q/0b5qss490gs4m8nb8jgyk73mkw1cpz/T/nio-file-upload
+00:14:31.846 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - enableLoggingRequestDetails='false': form data and headers will be masked to prevent unsafe logging of potentially sensitive data
+00:14:31.869 [Test worker] DEBUG reactor.util.Loggers$LoggerFactory - Using Slf4j logging framework
+00:14:31.936 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Writing client request for  GET &quot;/cat&quot;
+00:14:31.945 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Invoking HttpHandler for  GET &quot;/cat&quot;
+00:14:31.951 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [6ce44d69] HTTP GET &quot;/cat&quot;
+00:14:32.006 [Test worker] DEBUG org.springframework.http.codec.json.Jackson2JsonEncoder - [6ce44d69] Encoding [Cat{id='1', name='Mania', coatColor=BROWN, coatType=BOLD, age=KITTEN, requiresTreatment=false, isUse (truncated)...]
+00:14:32.019 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Creating client response for  GET &quot;/cat&quot;
+00:14:32.020 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [6ce44d69] Completed 200 OK
+00:14:32.022 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [2d30e35a] HTTP GET /cat
+00:14:32.024 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [2d30e35a] Response 200 OK
+00:14:32.045 [Test worker] DEBUG org.springframework.core.codec.ResourceDecoder - [2d30e35a] Read 165 bytes
+00:14:32.073 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['id']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['name']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['coatColor']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['coatType']
+00:14:32.076 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['age']
+00:14:32.077 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['requiresTreatment']
+00:14:32.077 [Test worker] DEBUG com.jayway.jsonpath.internal.path.CompiledPath - Evaluating path: $['usesCuvette']
+00:14:32.085 [Test worker] DEBUG org.synchronoss.cloud.nio.multipart.DefaultPartBodyStreamStorageFactory - Temporary folder: /var/folders/4q/0b5qss490gs4m8nb8jgyk73mkw1cpz/T/nio-file-upload
+00:14:32.087 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - enableLoggingRequestDetails='false': form data and headers will be masked to prevent unsafe logging of potentially sensitive data
+00:14:32.092 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Writing client request for  DELETE &quot;/cat/2&quot;
+00:14:32.092 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Invoking HttpHandler for  DELETE &quot;/cat/2&quot;
+00:14:32.093 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [2e0c4d7e] HTTP DELETE &quot;/cat/2&quot;
+00:14:32.093 [Test worker] INFO com.karolina.shelter.home.service.CatsHandler - Start removing cat with id: 2
+00:14:32.096 [Test worker] DEBUG org.springframework.http.codec.json.Jackson2JsonEncoder - [2e0c4d7e] Encoding [[Cat{id='2', name='Pusia', coatColor=CINNAMON, coatType=SHORT_HEARD, age=SENIOR, requiresTreatment=t (truncated)...]
+00:14:32.100 [Test worker] DEBUG org.springframework.test.web.reactive.server.HttpHandlerConnector - Creating client response for  DELETE &quot;/cat/2&quot;
+00:14:32.100 [Test worker] DEBUG org.springframework.web.server.adapter.HttpWebHandlerAdapter - [2e0c4d7e] Completed 200 OK
+00:14:32.100 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [452ae747] HTTP DELETE /cat/2
+00:14:32.101 [Test worker] DEBUG org.springframework.web.reactive.function.client.ExchangeFunctions - [452ae747] Response 200 OK
+</pre>
+</span>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 5.4.1</a> at Jul 7, 2019 12:14:32 AM</p>
+</div>
+</div>
+</body>
+</html>

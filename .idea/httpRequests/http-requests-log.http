@@ -1,0 +1,446 @@
+GET http://localhost:8080/cat/779
+
+<> 2019-06-08T101433.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-06-08T101350.200.json
+
+###
+
+GET http://localhost:8080/cat/7878
+
+<> 2019-05-30T084551.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T102753.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T102748.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T102650.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T102631.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T102627.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T101949.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T101620.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T101200.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T100936.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T100510.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T100225.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T100141.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T095706.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T095642.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T095351.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T095221.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T095149.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T095113.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T094851.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T094840.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T093929.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T093921.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-29T093002.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T085521.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 779,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T085224.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 778,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T085220.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 778,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T085209.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 778,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T085152.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 778,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T085117.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 778,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-29T081810.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 777,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "2"
+
+}
+
+<> 2019-05-29T081739.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-28T065330.200.json
+
+###
+
+GET http://localhost:8080/cat
+
+<> 2019-05-28T065202.200.json
+
+###
+
+GET http://localhost:8080/cat
+Content-Type: "application/stream+json"
+
+<> 2019-05-28T065139.200.json
+
+###
+
+GET http://localhost:8080/cat
+Content-Type: application/stream+json
+
+<> 2019-05-28T064859.200.json
+
+###
+
+GET http://localhost:8080/cat
+Accept: application/stream+json
+
+<> 2019-05-28T063644.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 9993,
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "isChildFriendly": true,
+  "isAnimalFriendly": true,
+  "convivialRate": "CONVIVIAL"
+
+}
+
+<> 2019-05-28T063621.200.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{
+  "id": 9993,
+  ""
+}
+
+<> 2019-05-28T063348.400.json
+
+###
+
+POST http://localhost:8080/cat
+Content-Type: application/json
+
+{"id": 9993}
+
+<> 2019-05-28T062848.200.json
+
+###
+

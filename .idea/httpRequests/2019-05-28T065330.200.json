@@ -1,0 +1,50 @@
+{
+  "id": "0",
+  "name": "Simmy",
+  "coatColor": "BROWN",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "convivialRate": "CONVIVIAL",
+  "childFriendly": true,
+  "animalFriendly": true
+}
+{
+  "id": "1",
+  "name": "SELLY",
+  "coatColor": "CINNAMON",
+  "coatType": "LONG_HEARD",
+  "hasPhysicalDisability": false,
+  "convivialRate": "HIGH_CONVIVIAL",
+  "childFriendly": false,
+  "animalFriendly": true
+}
+{
+  "id": "2",
+  "name": "Himmy",
+  "coatColor": "BLACK",
+  "coatType": "LONG_HEARD",
+  "hasPhysicalDisability": false,
+  "convivialRate": "HIGH_CONVIVIAL",
+  "childFriendly": false,
+  "animalFriendly": true
+}
+{
+  "id": "3",
+  "name": "Sandy",
+  "coatColor": "CREAM",
+  "coatType": "SHORT_HEARD",
+  "hasPhysicalDisability": false,
+  "convivialRate": "HIGH_CONVIVIAL",
+  "childFriendly": false,
+  "animalFriendly": true
+}
+{
+  "id": "9993",
+  "name": "Zuzia",
+  "coatColor": "GRAY",
+  "coatType": "BOLD",
+  "hasPhysicalDisability": false,
+  "convivialRate": "CONVIVIAL",
+  "childFriendly": false,
+  "animalFriendly": false
+}
